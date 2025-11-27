@@ -1,0 +1,5 @@
+{
+  "name": "Jenn's Notes",
+  "description": "A mobile-adaptive clinical support tool for nurses that ingests medical documents and provides AI-ranked recommendations using Gemini.",
+  "requestFramePermissions": []
+}
